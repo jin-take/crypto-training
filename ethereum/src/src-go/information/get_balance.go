@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func Transfer() {
+func GetBalance() {
 	fmt.Println("Execute Get Information Processing")
 }

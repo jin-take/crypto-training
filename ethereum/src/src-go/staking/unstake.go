@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func Stake() {
+func Unstake() {
 	fmt.Println("Execute Staking Processing")
 }

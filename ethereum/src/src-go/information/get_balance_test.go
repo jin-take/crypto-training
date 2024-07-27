@@ -1,1 +1,1 @@
-package information
+package information_test

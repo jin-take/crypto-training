@@ -23,7 +23,7 @@ func main() {
 
 	flag.Parse()
 
-	// 実行する関数を決定
+	// function
 	switch execType {
 	case "account":
 		switch process {
