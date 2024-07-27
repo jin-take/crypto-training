@@ -7,6 +7,9 @@ Readme Lang: [Japanese](./README-ja.me)
 
 ### Use Language
 - typescript
+- python
+- rust
+- go
 
 
 ### Announcements
