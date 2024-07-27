@@ -1,0 +1,10 @@
+/Users/t-iino/dev/crypto-training/ethereum/src/eth-rs/target/debug/deps/libidna-c2574cbc938ea1b8.rmeta: /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/t-iino/dev/crypto-training/ethereum/src/eth-rs/target/debug/deps/libidna-c2574cbc938ea1b8.rlib: /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/t-iino/dev/crypto-training/ethereum/src/eth-rs/target/debug/deps/idna-c2574cbc938ea1b8.d: /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs /Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/lib.rs:
+/Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/punycode.rs:
+/Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46.rs:
+/Users/t-iino/.asdf/installs/rust/1.76.0/registry/src/index.crates.io-6f17d22bba15001f/idna-0.5.0/src/uts46_mapping_table.rs:

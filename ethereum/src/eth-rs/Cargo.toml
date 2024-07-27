@@ -1,0 +1,10 @@
+[package]
+name = "eth-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+ethers = "1.0"
+dotenv = "0.15"
+clap = { version = "4.1", features = ["derive"] }
