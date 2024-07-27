@@ -35,7 +35,7 @@ func main() {
 		}
 	case "information":
 		switch process {
-		case "getBalance":
+		case "get_balance":
 			information.GetBalance()
 		default:
 			fmt.Printf("Unknown process: %s for type: %s\n", process, execType)
