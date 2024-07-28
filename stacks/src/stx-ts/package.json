@@ -1,5 +1,5 @@
 {
-  "name": "ethreum-training",
+  "name": "stacks-training",
   "version": "1.0.0",
   "description": "",
   "main": "main.ts",
@@ -10,11 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.4.5",
-    "ethers": "^6.13.2",
-    "fs": "^0.0.1-security",
-    "path": "^0.12.7",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.5.4"
+    "@types/dotenv": "^8.2.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
   }
 }
