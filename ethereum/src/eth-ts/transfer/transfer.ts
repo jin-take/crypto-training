@@ -2,8 +2,9 @@
 
 import { ethers } from "ethers";
 import dotenv from 'dotenv';
+import path from 'path';
 // Load environment variables from .env file
-dotenv.config();
+dotenv.config({ path: path.resolve(__dirname, '../.env') });
 
 // Case: From .env file 
 const senderPrivateKey = process.env.PRIVATE_KEY_SENDER as string;

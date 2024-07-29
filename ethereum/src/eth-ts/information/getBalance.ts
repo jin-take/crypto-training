@@ -1,9 +1,10 @@
 // Get balance information on testnet
 import { ethers } from 'ethers';
 import dotenv from 'dotenv';
+import path from 'path';
 
 // Load environment variables from .env file
-dotenv.config();
+dotenv.config({ path: path.resolve(__dirname, '../.env') });
 
 // RPC Provider on Seploia testnet
 const sepoliaProvider = new ethers.JsonRpcProvider('https://rpc.sepolia.org');
